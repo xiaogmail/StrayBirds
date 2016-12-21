@@ -25,7 +25,7 @@ future:       true
 unpublished:  false
 
 # Conversion
-markdown:     kramdown
+# markdown:     kramdown
 highlighter:  pygments
 lsi:          false
 excerpt_separator: "\n\n"
@@ -117,7 +117,7 @@ disqus:
 
 username: xiaogmail
 baseurl: /StrayBirds
-markdown: kramdown
+# markdown: kramdown
 safe: false
 highlighter: pygments
 title: 飞鸟集
