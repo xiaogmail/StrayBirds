@@ -7,7 +7,7 @@ source:       .
 destination:  ./_site
 plugins_dir:      ./_plugins
 layouts_dir:      ./_layouts
-paginate:     8
+paginate:     2
 
 # Handling Reading
 safe:         false
